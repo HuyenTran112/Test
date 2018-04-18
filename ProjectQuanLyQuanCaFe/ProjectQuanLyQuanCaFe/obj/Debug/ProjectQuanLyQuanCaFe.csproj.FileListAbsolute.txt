@@ -1,0 +1,26 @@
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\bin\Debug\ProjectQuanLyQuanCaFe.exe.config
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\bin\Debug\ProjectQuanLyQuanCaFe.exe
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\bin\Debug\ProjectQuanLyQuanCaFe.pdb
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.csprojResolveAssemblyReference.cache
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.Properties.Resources.resources
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.csproj.GenerateResource.Cache
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.exe
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.pdb
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.FrmLogin.resources
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.FrmTableManager.resources
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.FrmAccountProFile.resources
+D:\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.FrmAdmin.resources
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.FrmAccountProFile.resources
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.FrmAdmin.resources
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.FrmLogin.resources
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.FrmTableManager.resources
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.Properties.Resources.resources
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.csproj.GenerateResource.Cache
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.csproj.CoreCompileInputs.cache
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.exe
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.pdb
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\bin\Debug\ProjectQuanLyQuanCaFe.exe.config
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\bin\Debug\ProjectQuanLyQuanCaFe.exe
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\bin\Debug\ProjectQuanLyQuanCaFe.pdb
+D:\Học kỳ II năm 2\Nhap CSDL\ProjectQuanLyQuanCaFe\ProjectQuanLyQuanCaFe\obj\Debug\ProjectQuanLyQuanCaFe.csprojResolveAssemblyReference.cache
